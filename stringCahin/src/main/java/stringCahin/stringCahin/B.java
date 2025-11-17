@@ -13,7 +13,7 @@ public class B {
 	  
 	   String updated = next.process(prefix + "E");
 	   
-	   return prefix + "E";
+	   return updated;
 
 	   
 	}}
