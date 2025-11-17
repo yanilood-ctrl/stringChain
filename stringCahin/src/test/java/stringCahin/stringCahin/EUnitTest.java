@@ -11,7 +11,6 @@ public class EUnitTest {
 
         String result = e.process("HELL");
 
-        // E מוסיפה "O" → "HELLO"
         assertEquals("HELLO", result);
     }
 }
